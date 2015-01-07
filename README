@@ -1,0 +1,5 @@
+This is a highly advanced Rock, Paper, Scissors Ruby app created by Clem Freeman and Luke Chinworth.
+
+To install, clone the repository and then run 'bundle' from the repository directory to install all of the dependencies. Then, run 'ruby app.rb' to start the Sinatra server. When the server is running, go to your browser and type 'localhost:4567/form' to run the app.
+
+Note: the app only works with input of "rock" "paper" and "scissors." Lowercase is important.
